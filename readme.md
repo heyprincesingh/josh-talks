@@ -7,15 +7,6 @@ This project is a RESTful API for a task management system, built using **Django
 ## Features
 
 - Create a new task
-- Assign tasks to one or # Task Management API
-
-This project is a RESTful API for a task management system, built using **Django** and **Django REST Framework (DRF)**. The API provides functionality to create tasks, assign them to users, and retrieve assigned tasks.
-
----
-
-## Features
-
-- Create a new task
 - Assign tasks to one or multiple users
 - Retrieve tasks assigned to a specific user
 
